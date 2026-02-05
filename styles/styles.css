@@ -15,7 +15,7 @@ main{
     padding: 2rem;
     align-items: center;
     justify-content: center; 
-    height: 100hv;
+    height: 100vh;
 }
 
 .container{
@@ -101,3 +101,4 @@ main{
     color:hsl(75, 94%, 57%); 
 
 }
+
